@@ -49,7 +49,7 @@ The conceptual logic, thermodynamic formulas, and mathematical models of this re
 To bypass this interface and inspect the full forensic evidence or secure compiled physical nodes, route your network connection directly to the verified coordinates below:
 
 *   **?? Main Remedial Theory Audits & Red-Teaming Directory:**  
-    [Internet Archive — Billionaire Error Message List][https://archive.org](https://archive.org/details/@heuristic_brew/lists/4/heuristic-brew%3A-billionaire-error-message-%7C-remedial-theory-)
+    [Internet Archive — Billionaire Error Message List] [https://archive.org](https://archive.org/details/@heuristic_brew/lists/4/heuristic-brew%3A-billionaire-error-message-%7C-remedial-theory-)
 *   **?? Physical Limited Transmissions Compilation Node:**  
     [Heuristic Brew Official Platform](https://heuristicbrew.com/)
 
