@@ -28,9 +28,9 @@ The theory bypasses additive political illusions to deploy a strict, subtractive
 *   **The Problem:** The persistent threat of capital flight paralyzes sovereign states from enforcing aggressive corporate accountability or wealth redistribution.
 *   **The Remedy:** The theory installs a hard-coded defensive firewall against billionaire flight. If an extractive asset holder or corporate monopoly attempts to detach from the local state grid, they trigger a mandatory **60% Exit Dividend**. The state retains 60% of the asset's structural value trapped within the physical infrastructure, allowing the departing entity to leave with a maximum of 40% in liquid cash. Non-compliant departure is reframed as a system-purging "Loss Leader."
 
-### 4. Taxation Remedy: Surtax & Pure Hypothecation
+### 4. Taxation Remedy: Surtax & Hypothecation
 *   **The Problem:** Standard public taxes disappear into a centralized, bureaucratic black box, fueling public distrust, driving tax evasion, and diluting the direct value returned to the community.
-*   **The Remedy:** The theory replaces diffuse taxation loops with targeted surtaxes and absolute **hypothecation**. Revenue extracted from systemic monopolies is legally siloed and directly hard-wired to fund the local physical ecosystem. The extraction points and the redistribution points are short-circuited into a transparent, unalterable ledger.
+*   **The Remedy:** The theory replaces diffuse taxation loops with targeted surtaxes and **hypothecation** (Example: Lifestyle Danger Tax). Revenue extracted from systemic monopolies is legally siloed and directly hard-wired to fund the local physical ecosystem. The extraction points and the redistribution points are short-circuited into a transparent, unalterable ledger.
 
 ### 5. AI Social Dividend: Decoupling Survival from Utility
 *   **The Problem:** Rapid advancements in artificial intelligence are driving massive automated job displacement. In a broken system, this creates a catastrophic double-loop: widespread structural unemployment matched with consumption collapse, as the displaced population lacks the capital to purchase the automated output.
@@ -38,7 +38,7 @@ The theory bypasses additive political illusions to deploy a strict, subtractive
 
 ### 6. Education Shield: Metacognitive Literacy
 *   **The Problem:** Extractive economic structures rely on defensive pride, anti-intellectualism, and cognitive distortions born from long-term scarcity fear to keep populations passive and compliant.
-*   **The Remedy:** The theory deploys a cognitive defense mechanism from age five. It introduces mandatory **Metacognitive Literacy**—training individuals to systematically "think about their own thinking." This builds an intellectual shield against corporate marketing, political populism, and algorithmic pacification, creating a population of sovereign auditors capable of inspecting systemic logic in real-time.
+*   **The Remedy:** The theory deploys a cognitive defense mechanism from age five. It introduces mandatory **Metacognitive Literacy**—enabling individuals to "think about their own thinking." This builds an intellectual shield against corporate marketing, political populism, and algorithmic pacification, creating a population of sovereign auditors capable of inspecting systemic logic in real-time.
 
 ---
 
